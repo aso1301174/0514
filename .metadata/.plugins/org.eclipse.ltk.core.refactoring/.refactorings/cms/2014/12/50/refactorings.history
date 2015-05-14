@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;common.ReferStu2&apos; を &apos;AppEntry&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;cms&apos;&#x0A;- オリジナル要素: &apos;common.ReferStu2&apos;&#x0A;- 名前変更済み要素: &apos;common.AppEntry&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;ReferStu2&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/WEB-INF\/src&lt;common{ReferStu2.java[ReferStu2" matchStrategy="1" name="AppEntry" qualified="false" references="true" similarDeclarations="false" stamp="1418089225770" textual="false" version="1.0"/>
+</session>

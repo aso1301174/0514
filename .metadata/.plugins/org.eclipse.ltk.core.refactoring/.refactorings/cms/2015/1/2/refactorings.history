@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;cms/cms_man/app_date2.jsp&apos; を &apos;app_update2.jsp&apos; に変更します" description="リソース &apos;app_date2.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="cms_man/app_date2.jsp" name="app_update2.jsp" stamp="1420559514809" updateReferences="true"/>
+</session>

@@ -1,0 +1,12 @@
+<Context path="/cms" reloadable="true" docBase="/Users/maeda/Documents/eclipse/workspace/cms" workDir="/Users/maeda/Documents/eclipse/workspace/cms/work" >
+	<Resource auth="Container"
+			driverClassName="com.mysql.jdbc.Driver"
+			maxActive="20" maxIdle="10" maxWait="-1"
+			name="jdbc/MySQL"
+			type="javax.sql.DataSource"
+			url="jdbc:mysql://localhost/jsa20"
+			username="jsa20"
+			password="jsa20"
+	/>
+
+</Context>

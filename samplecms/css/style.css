@@ -1,0 +1,27 @@
+@charset "utf-8";
+#login {
+	width : 130px;
+	top : 140px;
+	left : 50px;
+	position : absolute;
+	z-index : 1;
+	height: 63px;
+}
+#input {
+	width : 250px;
+	top : 185px;
+	left : 185px;
+	position : absolute;
+	z-index : 1;
+}
+#light {
+	float: left;
+	width: 250px;
+	height: 1000;
+}
+#light input {
+	cursor:pointer;
+	width:200px;
+	height:50px;
+
+}

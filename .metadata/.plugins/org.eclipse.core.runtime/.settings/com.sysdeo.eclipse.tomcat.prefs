@@ -1,0 +1,9 @@
+computeSourcePath=true
+contextsDir=/Users/maeda/Desktop/web\u30A2\u30D5\u309A\u30EA/apache-tomcat-7.0.53/conf/Catalina/localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=cms;
+tomcatConfigFile=/Users/maeda/Desktop/web\u30A2\u30D5\u309A\u30EA/apache-tomcat-7.0.53/conf/server.xml
+tomcatDir=/Users/maeda/Desktop/web\u30A2\u30D5\u309A\u30EA/apache-tomcat-7.0.53
+tomcatJRE=com.oracle.java.8u05.jdk
+tomcatVersion=tomcatV7
